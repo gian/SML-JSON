@@ -1,0 +1,16 @@
+SML-JSON
+https://github.com/gian/sml-json
+Gian Perrone <gdpe at itu dot dk>
+
+This is a very basic JSON-parsing library for Standard ML.
+
+The main use case is to instantiate the JSONParser functor with a structure
+of callbacks that will be invoked by the parser itself, permitting you to
+build whatever internal representation of the JSON you wish.
+
+Running 'make' at the top level will build a test program - json-test.
+Running 'make tests' will attempt to run a few tests from the tests directory.
+
+To use this in your own programs, you really only need the sml-json.sml file.
+
+Comments, suggestions or improvements are welcome.

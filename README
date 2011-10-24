@@ -1,3 +1,13 @@
+NOTE: This has been forked to the 'standardml' repository.
+
+Use the version at https://github.com/standardml/sml-json
+
+Or you can retrieve it with smackage using:
+
+smack down sml-json
+
+Old readme follows:
+
 SML-JSON
 https://github.com/gian/sml-json
 Gian Perrone <gdpe at itu dot dk>
